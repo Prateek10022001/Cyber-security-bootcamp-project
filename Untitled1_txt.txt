@@ -1,0 +1,56 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.txt",
+      "provenance": [],
+      "collapsed_sections": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "MiXfQlmSuThR"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "gmNKdYWQuVB6"
+      },
+      "source": [
+        ""
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "A0OgWmsdV7Op"
+      },
+      "source": [
+        "Enter the city name: Bhubaneswar\n",
+        "-------------------------------------------------------------\n",
+        "Weather Stats for - BHUBANESWAR  || 23 Jun 2021 | 05:28:19 AM\n",
+        "-------------------------------------------------------------\n",
+        "Current temperature is: 25.12 deg C\n",
+        "Current weather desc  : light rain\n",
+        "Current Humidity      : 100 %\n",
+        "Current wind speed    : 1.03 kmph"
+      ]
+    }
+  ]
+}
